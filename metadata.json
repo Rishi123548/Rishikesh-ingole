@@ -1,0 +1,7 @@
+{
+  "name": "SmartQuote Pro",
+  "description": "AI GST Quotation, Billing & Project Requirement Builder for Rishi_dev digital agency with dynamic cost calculation, multi-role access, and invoice generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Document Card Sheet in 66dp Safe Area (21dp to 87dp) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,24 C30,24 28,26 28,28 L28,80 C28,82 30,84 32,84 L76,84 C78,84 80,82 80,80 L80,38 L66,24 Z" />
+    <!-- Document Top Fold Badge (Accent Blue) -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M66,24 L80,38 L66,38 Z" />
+    <!-- Header banner in document -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M34,32 L62,32 A2,2 0 0,1 64,34 L64,36 A2,2 0 0,1 62,38 L34,38 A2,2 0 0,1 32,36 L32,34 A2,2 0 0,1 34,32 Z" />
+    <!-- Rupee Symbol glyph inside document (Bold Indigo) -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M44,44 L64,44 L64,48 L56,48 C59,51 61,54 62,58 L64,58 L64,61 L62.5,61 L68,76 L62,76 L57,62 C53,62 48,62 45,62 L45,58 L54,58 C52,55 50,52 46,52 L44,52 L44,48 L55,48 L44,48 Z" />
+    <!-- AI Sparkle star top right -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M74,54 C74,58 78,58 78,58 C78,58 74,58 74,62 C74,58 70,58 70,58 C70,58 74,58 74,54 Z" />
+    <!-- AI Sparkle star bottom right -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M70,68 C70,71 73,71 73,71 C73,71 70,71 70,74 C70,71 67,71 67,71 C67,71 70,71 70,68 Z" />
+</vector>
